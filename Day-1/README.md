@@ -1,6 +1,8 @@
 # Day 1
 
-## Create Hello World Function
+## 2667. Create Hello World Function
+
+Write a function createHelloWorld. It should return a new function that always returns "Hello World".
 
 ### Anonymus Function
 
@@ -67,4 +69,4 @@ add(0, 1);
 
 ### High order function
 
--  The funcion that accepts a function and/or return function is called a higher-order function.
+- The funcion that accepts a function and/or return function is called a higher-order function.
