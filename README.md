@@ -37,3 +37,14 @@ The three functions are:
 - decrement() reduces the current value by 1 and then returns it.
 - reset() sets the current value to init and then returns it.
   [Solution](./Day-4/index.js)
+
+## Day 5
+
+### 2635. Apply Transform Over Each Element in Array
+
+Given an integer array arr and a mapping function fn, return a new array with a transformation applied to each element.
+
+The returned array should be created such that returnedArray[i] = fn(arr[i], i).
+
+- Please solve it without the built-in `js Array.map() ` method.
+  [Solution](./Day-5/index.js)
