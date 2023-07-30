@@ -89,3 +89,9 @@ Given an array of functions `js [f1, f2, f3, ..., fn]`, return a new function fn
 
 You may assume each function in the array accepts one integer as input and returns one integer as output.
 [Solution](./Day-8/index.js)
+
+## Day 9
+
+### 2703. Return Length of Arguments Passed
+
+Write a function argumentsLength that returns the count of arguments passed to it.
