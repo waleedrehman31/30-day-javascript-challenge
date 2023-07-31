@@ -8,12 +8,16 @@ This challenge is from [LeetCode](https://leetcode.com/studyplan/30-days-of-java
 
 Write a function createHelloWorld. It should return a new function that always returns "Hello World". [Solution](./Day-1/index.js)
 
+---
+
 ## Day 2
 
 ### 2620. Counter
 
 Given an integer n, return a counter function. This counter function initially returns n and then returns 1 more than the previous value every subsequent time it is called (n, n + 1, n + 2, etc).
 [Solution](./Day-2/index.js)
+
+---
 
 ## Day 3
 
@@ -24,6 +28,8 @@ Write a function expect that helps developers test their code. It should take in
 - toBe(val) accepts another value and returns true if the two values === each other. If they are not equal, it should throw an error "Not Equal".
 - notToBe(val) accepts another value and returns true if the two values !== each other. If they are equal, it should throw an error "Equal".
   [Solution](./Day-3/index.js)
+
+---
 
 ## Day 4
 
@@ -38,6 +44,8 @@ The three functions are:
 - reset() sets the current value to init and then returns it.
   [Solution](./Day-4/index.js)
 
+---
+
 ## Day 5
 
 ### 2635. Apply Transform Over Each Element in Array
@@ -50,6 +58,8 @@ The returned array should be created such that returnedArray[i] = fn(arr[i], i).
   [Solution](./Day-5/index.js)
 
 ## Day 6
+
+---
 
 ### 2635. Apply Transform Over Each Element in Array
 
@@ -64,6 +74,8 @@ The fn function takes one or two arguments:
 Please solve it without the built-in `js Array.filter()` method.
 [Solution](./Day-6/index.js)
 
+---
+
 ## Day 7
 
 ### 2626. Array Reduce Transformation
@@ -76,6 +88,8 @@ A reduced array is created by applying the following operation: val = fn(init, n
 
 Please solve it without the built-in `js Array.reduce()` method.
 [Solution](./Day-7/index.js)
+
+---
 
 ## Day 8
 
@@ -90,8 +104,25 @@ Given an array of functions `js [f1, f2, f3, ..., fn]`, return a new function fn
 You may assume each function in the array accepts one integer as input and returns one integer as output.
 [Solution](./Day-8/index.js)
 
+---
+
 ## Day 9
 
 ### 2703. Return Length of Arguments Passed
 
 Write a function argumentsLength that returns the count of arguments passed to it.
+[Solution](./Day-9/index.js)
+
+---
+
+## Day 10
+
+### 2666. Allow One Function Call
+
+Given a function fn, return a new function that is identical to the original function except that it ensures fn is called at most once.
+
+- The first time the returned function is called, it should return the same result as fn.
+- Every subsequent time it is called, it should return undefined.
+  [Solution](./Day-10/index.js)
+
+---
