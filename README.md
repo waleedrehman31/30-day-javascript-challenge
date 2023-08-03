@@ -151,3 +151,13 @@ You can assume there are 3 possible input functions: sum, fib, and factorial.
 Given two promises promise1 and promise2, return a new promise. promise1 and promise2 will both resolve with a number. The returned promise should resolve with the sum of the two numbers.
 
 [Solution](./Day-12/index.js)
+
+---
+
+## Day 13
+
+### 2621. Sleep
+
+Given a positive integer millis, write an asynchronous function that sleeps for millis milliseconds. It can resolve any value.
+
+[Solution](./Day-13/index.js)
