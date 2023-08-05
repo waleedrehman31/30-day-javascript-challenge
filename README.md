@@ -173,3 +173,15 @@ Given a function fn, an array of arguments args, and a timeout t in milliseconds
 After a delay of t, fn should be called with args passed as parameters unless cancelFn was invoked before the delay of t milliseconds elapses, specifically at cancelT ms. In that case, fn should never be called.
 
 [Solution](./Day-14/index.js)
+
+---
+
+## Day 15
+
+### 2725. Interval Cancellation
+
+Given a function fn, an array of arguments args, and an interval time t, return a cancel function cancelFn.
+
+The function fn should be called with args immediately and then called again every t milliseconds until cancelFn is called at cancelT ms.
+
+[Solution](./Day-15/index.js)
