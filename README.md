@@ -238,3 +238,20 @@ Please solve it without using lodash's \_.debounce() function.
 
 [Solution](./Day-18/index.js)
 
+---
+
+## Day 19
+
+### 2721. Execute Asynchronous Functions in Parallel
+
+Given an array of asynchronous functions functions, return a new promise promise. Each function in the array accepts no arguments and returns a promise.
+
+promise resolves:
+
+When all the promises returned from functions were resolved successfully. The resolved value of promise should be an array of all the resolved values of promises in the same order as they were in the functions.
+promise rejects:
+
+When any of the promises returned from functions were rejected. promise should also reject with the reason of the first rejection.
+Please solve it without using the built-in Promise.all function.
+
+[Solution](./Day-19/index.js)
