@@ -188,3 +188,13 @@ This challenge is from [LeetCode](https://leetcode.com/studyplan/30-days-of-java
 [Description](./Day-20/README.md)
 
 [Solution](./Day-20/index.js)
+
+---
+
+## Day 21
+
+### 2677. Chunk Array
+
+[Description](./Day-21/README.md)
+
+[Solution](./Day-21/index.js)
