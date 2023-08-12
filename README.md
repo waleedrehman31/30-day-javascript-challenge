@@ -198,3 +198,13 @@ This challenge is from [LeetCode](https://leetcode.com/studyplan/30-days-of-java
 [Description](./Day-21/README.md)
 
 [Solution](./Day-21/index.js)
+
+---
+
+## Day 22
+
+### 2619. Array Prototype Last
+
+[Description](./Day-22/README.md)
+
+[Solution](./Day-22/index.js)
