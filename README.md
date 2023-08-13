@@ -208,3 +208,13 @@ This challenge is from [LeetCode](https://leetcode.com/studyplan/30-days-of-java
 [Description](./Day-22/README.md)
 
 [Solution](./Day-22/index.js)
+
+---
+
+## Day 23
+
+### 2631. Group By
+
+[Description](./Day-23/README.md)
+
+[Solution](./Day-23/index.js)
