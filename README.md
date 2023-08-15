@@ -226,3 +226,11 @@ This challenge is from [LeetCode](https://leetcode.com/studyplan/30-days-of-java
 [Description](./Day-24/README.md)
 
 [Solution](./Day-24/index.js)
+
+## Day 25
+
+### 2724. Sort By
+
+[Description](./Day-25/README.md)
+
+[Solution](./Day-25/index.js)
