@@ -234,3 +234,11 @@ This challenge is from [LeetCode](https://leetcode.com/studyplan/30-days-of-java
 [Description](./Day-25/README.md)
 
 [Solution](./Day-25/index.js)
+
+## Day 26
+
+### 2625. Flatten Deeply Nested Array
+
+[Description](./Day-26/README.md)
+
+[Solution](./Day-26/index.js)
