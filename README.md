@@ -242,3 +242,11 @@ This challenge is from [LeetCode](https://leetcode.com/studyplan/30-days-of-java
 [Description](./Day-26/README.md)
 
 [Solution](./Day-26/index.js)
+
+## Day 27
+
+### 2705. Compact Object
+
+[Description](./Day-27/README.md)
+
+[Solution](./Day-27/index.js)
