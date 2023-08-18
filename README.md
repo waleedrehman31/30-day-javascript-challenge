@@ -250,3 +250,11 @@ This challenge is from [LeetCode](https://leetcode.com/studyplan/30-days-of-java
 [Description](./Day-27/README.md)
 
 [Solution](./Day-27/index.js)
+
+## Day 28
+
+### 2694. Event Emitter
+
+[Description](./Day-28/README.md)
+
+[Solution](./Day-28/index.js)
