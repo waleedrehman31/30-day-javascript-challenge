@@ -258,3 +258,11 @@ This challenge is from [LeetCode](https://leetcode.com/studyplan/30-days-of-java
 [Description](./Day-28/README.md)
 
 [Solution](./Day-28/index.js)
+
+## Day 29
+
+### 2695. Array Wrapper
+
+[Description](./Day-29/README.md)
+
+[Solution](./Day-29/index.js)
