@@ -266,3 +266,11 @@ This challenge is from [LeetCode](https://leetcode.com/studyplan/30-days-of-java
 [Description](./Day-29/README.md)
 
 [Solution](./Day-29/index.js)
+
+## Day 30
+
+### 2726. Calculator with Method Chaining
+
+[Description](./Day-30/README.md)
+
+[Solution](./Day-30/index.js)
